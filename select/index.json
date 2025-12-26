@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "YELL",
+  "base_artist": "いきものがかり",
+  "createdAt": "2025-12-26T07:13:49.490993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wi' Nae Wee Bairn Ye'll Me Beget",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_Wi'_Nae_Wee_Bairn_Ye'll_Me_Beget_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/02_Rebel_Yell_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/03_Rebel_Yell_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/04_Rebel_Yell_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rebel Yell (Live and Acoustic)",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/05_Rebel_Yell_(Live_and_Acoustic)_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/06_Rebel_Yell_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Scooter",
+      "has_synced": true,
+      "path": "select/07_Rebel_Yell_Scooter.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Children of Bodom",
+      "has_synced": false,
+      "path": "select/08_Rebel_Yell_Children_of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rebel Yell (Billy Idol Cover)",
+      "artist": "Children Of Bodom",
+      "has_synced": true,
+      "path": "select/09_Rebel_Yell_(Billy_Idol_Cover)_Children_Of_Bodom.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rebel Yell (Billy Idol)",
+      "artist": "Children Of Bodom",
+      "has_synced": false,
+      "path": "select/10_Rebel_Yell_(Billy_Idol)_Children_Of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rebel Yell - Bonus Track",
+      "artist": "Heidevolk",
+      "has_synced": true,
+      "path": "select/11_Rebel_Yell_-_Bonus_Track_Heidevolk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Heidevolk",
+      "has_synced": true,
+      "path": "select/12_Rebel_Yell_Heidevolk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/13_Rebel_Yell_HIM.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Northern Kings",
+      "has_synced": true,
+      "path": "select/14_Rebel_Yell_Northern_Kings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rebel Yell",
+      "artist": "Queensrÿche",
+      "has_synced": true,
+      "path": "select/15_Rebel_Yell_Queensrÿche.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YELL",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_YELL_いきものがかり.txt"
+    }
+  ]
+}
